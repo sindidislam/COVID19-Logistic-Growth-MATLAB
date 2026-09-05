@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or academic project, please cite it as below."
+title: "Modeling the Spread of COVID-19 Using a Logistic Growth Model in MATLAB"
+type: software
+authors:
+  - family-names: "Talukder"
+    given-names: "Sasshata"
+    affiliation: "Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)"
+  - family-names: "Mahodi"
+    given-names: "S. M. Sindid Islam"
+    affiliation: "Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)"
+  - family-names: "Khan"
+    given-names: "Rajib"
+    affiliation: "Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)"
+  - family-names: "Iftekhar-E-Islam"
+    given-names: ""
+    affiliation: "Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)"
+date-released: 2025-01-31
+version: 1.0.0
+institution:
+  name: "Bangladesh University of Engineering and Technology (BUET)"
+keywords:
+  - "matlab"
+  - "covid-19"
+  - "logistic-growth-model"
+  - "epidemic-modeling"
+  - "curve-fitting"
+  - "app-designer"
+  - "numerical-methods"
+repository-code: "https://github.com/sindidislam/COVID19-Logistic-Growth-MATLAB"
+license: MIT

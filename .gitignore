@@ -1,0 +1,64 @@
+# ====================================================================
+# MATLAB Git Ignore Rules
+# ====================================================================
+# Autosave and backup files
+*.asv
+*.autosave
+*.m~
+*.bak
+*.fig.bak
+
+# Simulink / Code Generation cache
+slprj/
+*.slxc
+*.dmr
+*.mex*
+
+# Runtime and Cache files
+mcrCache*
+*.log
+*.crash
+matlab.log
+
+# MATLAB Profiler & Code Analyzer artifacts
+*.html
+*.profile
+*.cov
+
+# Ignore raw uncompressed large dataset (>100MB)
+# (Keeps the repository compliant with GitHub file size limits)
+owid-covid-data.csv
+*/owid-covid-data.csv
+Data/owid-covid-data.csv
+Code/owid-covid-data.csv
+
+# Temporary model output exports (generated upon running)
+bangladesh_logistic_results.mat
+bangladesh_logistic_predictions.csv
+bangladesh_model_parameters.csv
+
+# ====================================================================
+# Operating System & Editor Files
+# ====================================================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.gemini/
+scratch/
