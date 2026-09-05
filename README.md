@@ -203,8 +203,8 @@ Department of Electrical and Electronic Engineering (EEE)
 
 | Full Name | Student ID | Contribution Focus |
 | :--- | :---: | :--- |
-| **Sasshata Talukder** | `2206136` | GUI design, event marker module, data integration |
 | **S. M. Sindid Islam Mahodi** | `2206147` | Curve fitting algorithms, sensitivity analysis, optimization |
+| **Sasshata Talukder** | `2206136` | GUI design, event marker module, data integration |
 | **Rajib Khan** | `2206152` | Data cleaning, preprocessing, comparison metrics |
 | **Iftekhar-E-Islam** | `2206153` | GUI theming, PDF export, performance reporting |
 
@@ -238,7 +238,7 @@ If you use this software, dataset benchmarks, or methodology in academic researc
 
 ```bibtex
 @software{buet_eee212_covid19_logistic,
-  author       = {Talukder, Sasshata and Mahodi, S. M. Sindid Islam and Khan, Rajib and Iftekhar-E-Islam},
+  author       = {Mahodi, S. M. Sindid Islam and Talukder, Sasshata and Khan, Rajib and Iftekhar-E-Islam},
   title        = {Modeling the Spread of COVID-19 Using a Logistic Growth Model in MATLAB},
   year         = {2025},
   publisher    = {GitHub},

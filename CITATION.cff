@@ -3,11 +3,11 @@ message: "If you use this software or academic project, please cite it as below.
 title: "Modeling the Spread of COVID-19 Using a Logistic Growth Model in MATLAB"
 type: software
 authors:
-  - family-names: "Talukder"
-    given-names: "Sasshata"
-    affiliation: "Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)"
   - family-names: "Mahodi"
     given-names: "S. M. Sindid Islam"
+    affiliation: "Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)"
+  - family-names: "Talukder"
+    given-names: "Sasshata"
     affiliation: "Department of Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology (BUET)"
   - family-names: "Khan"
     given-names: "Rajib"
